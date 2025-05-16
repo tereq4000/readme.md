@@ -1,12 +1,12 @@
 <h1 align="center">
   <img src="https://cdn.discordapp.com/avatars/YOUR_DISCORD_ID/YOUR_AVATAR_HASH.png?size=128" width="100" style="border-radius: 50%;" />
   <br />
-  username#1234
+  tereq
 </h1>
 
 <p align="center">
   <!-- Real-time Discord presence -->
-  <img src="https://lanyard.cnrad.dev/api/YOUR_DISCORD_ID?theme=dark&borderRadius=25px&idleMessage=Offline" />
+  <img src="https://lanyard.cnrad.dev/api/342882271675678741?theme=dark&borderRadius=25px&idleMessage=Offline" />
 </p>
 
 <p align="center">
@@ -18,5 +18,5 @@
 
 <p align="center">
   <!-- Manually add your Discord bio here -->
-  <em>👋 Hey! I’m a passionate developer who loves coding bots and exploring new tech. Always online, always learning.</em>
+  <em>Yo.</em>
 </p>
