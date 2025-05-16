@@ -1,9 +1,20 @@
 <h1 align="center">
-  <img src="https://cdn.discordapp.com/avatars/342882271675678741/b8cae2ffe6c241c814653caa55b9e15e.png?size=128" width="100" style="border-radius: 50%;" />
+  <img src="https://cdn.discordapp.com/avatars/YOUR_DISCORD_ID/YOUR_AVATAR_HASH.png?size=128" width="100" style="border-radius: 50%;" />
   <br />
-  tereqqq
+  username#1234
 </h1>
 
 <p align="center">
-  <img src="https://lanyard.cnrad.dev/api/342882271675678741?theme=dark&borderRadius=25px&idleMessage=Offline" />
+  <img src="https://lanyard.cnrad.dev/api/YOUR_DISCORD_ID?theme=dark&borderRadius=25px&idleMessage=Offline" />
+</p>
+
+<p align="center">
+  <!-- Example badges -->
+  <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+<p align="center">
+  👋 Hey! I’m a passionate developer who loves coding bots and exploring new tech. Always online, always learning.
 </p>
